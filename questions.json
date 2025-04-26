@@ -1,0 +1,26 @@
+[
+    {
+        "question":  "What are the Six pillars of iman??",
+        "choice1": "<Belief in Allah, angels, prophets, holy books, prayer, and fasting>",
+        "choice2": "<Belief in Allah, angels, holy books, messengers, the Last Day, and Qadar (divine decree)>",
+        "choice3": "<Belief in the Quran, Hadith, zakat, Ramadan, prophets, and hajj>",
+        "choice4": "<Belief in Allah, the five pillars, Jannah, Jahannam, angels, and the Quran>",
+        "answer": 2
+    },
+    {
+        "question": "Where was the Kabba built?",
+        "choice1": "<Yemen>",
+        "choice2": "<Medina>",
+        "choice3": "<Makkah>",
+        "choice4": "<Palestine>",
+        "answer": 3
+    },
+    {
+        "question": "Who is the last prophet?",
+        "choice1": "<Prophet Isa (PBUH)>",
+        "choice2": "<Prophet Musa (PBUH)>",
+        "choice3": "<Prophet Ibrahim (PBUH)>",
+        "choice4": "<Prophet Muhammad (SAW)>",
+        "answer": 4
+    }
+]
